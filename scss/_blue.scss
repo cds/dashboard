@@ -1,0 +1,41 @@
+[data-theme=blue] {
+    color: #a9c3ff;
+}
+
+[data-theme=blue] .navbar {
+    color: #e1e1ff !important;
+    background-color: $primary  !important;
+}
+
+[data-theme=blue] .btn {
+
+    background-color: $primary;
+    border-color: #a9c3ff;
+}
+
+[data-theme=blue] .card {
+    background-color: $primary  !important;
+    color: $dark;
+}
+
+[data-theme=blue] .card-header .text-primary {
+    background-color: $primary  !important;
+    color: $white  !important;
+}
+
+
+[data-theme="blue"] .form {
+    color: #a9c3ff !important;
+    background-color: #222 !important;
+}
+
+[data-theme="blue"] .form-control {
+    color: $primary  !important;
+    background-color: #a9c3ff !important;
+}
+
+
+[data-theme="blue"] .offcanvas {
+    color: $primary  !important;
+    background-color: #a9c3ff !important;
+}
